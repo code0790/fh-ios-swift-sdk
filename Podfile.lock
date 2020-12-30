@@ -28,7 +28,7 @@ DEPENDENCIES:
   - ReachabilitySwift (= 4.1.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - AeroGearHttp
     - AeroGearPush-Swift
     - OCMock
@@ -44,4 +44,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: dee38fffd05630c41e78f411d4ad201b31ba459b
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4
